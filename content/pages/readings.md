@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 149bfda0-2388-54fc-abcc-b3bcf3959be8
 ---
@@ -202,7 +205,7 @@ Subdivisions, neighborhood design and sustainability
 {{< tdopen >}}
 
 
- Schwanke, D. et al. _Mixed Use Development Handbook_. 2nd ed. Washington, DC: Urban Land Institute, 2004. ISBN: 9780874206654.
+ Schwanke, D. et al. _Mixed Use Development Handbook_. 2{{< sup "nd" >}} ed. Washington, DC: Urban Land Institute, 2004. ISBN: 9780874206654.
 
  Southworth, Michael and Eran Ben-Joseph. _Streets and the Shaping of Towns and Cities_. Washington, DC: Island Press, 2003. ISBN: 9781559639163.
 
