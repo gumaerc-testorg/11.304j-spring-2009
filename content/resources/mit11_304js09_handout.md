@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 24e2ed43-959d-d259-68e8-f7109ffc967f
 resourcetype: Document
 title: Overview
 uid: 1fc5a91c-cfcb-1f6d-65a9-06513ec85fd0

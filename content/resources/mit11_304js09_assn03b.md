@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2e0cd6de-54ee-e9b5-a9ad-76d16ca94cef
 resourcetype: Document
 title: 'Alternatives and New Approaches to Site and Infrastructure Technologies II '
 uid: efaa22e9-7077-25df-365b-14788b6b960a
