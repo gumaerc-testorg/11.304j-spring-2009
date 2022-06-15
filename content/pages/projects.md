@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of final project topics and information
+  on neighborhood site plan assemblies.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on meeting times, prerequisites, the goal of the Site Planning Studio, the client
+  for the project, required textbooks, approach plan for attaining goals, assignments,
+  grading and evaluation, and the schedule of lecture topics and key dates for the
+  course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +21,7 @@ Prerequisites
 
 There are no specified prerequisites for this course.
 
-Overview ([PDF]({{< baseurl >}}/resources/mit11_304js09_handout))
+Overview ({{% resource_link 1fc5a91c-cfcb-1f6d-65a9-06513ec85fd0 "PDF" %}})
 -----------------------------------------------------------------
 
 The final project is the product of a long-term collaboration between Japan's Sekisui House and MIT School of Architecture and Planning formed to envision, design, and build prototypical sustainable residential communities for society in the years 2030-2050. The research represents the work of a joint project team of graduate students from the School's Architecture and Urban Planning Departments and staff members from Sekisui House working under the guidance of Dean Adèle Naudé Santos, Professor Eran Ben-Joseph, Professor Shun Kanda, and Professor Andrew Scott.
