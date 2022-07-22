@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Tama New Town
 uid: c1d98ef7-e529-dd6a-dc5e-05252257dc54
 ---
 Tama New Town.
-
