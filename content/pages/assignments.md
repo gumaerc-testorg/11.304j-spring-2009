@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information and supporting files for the assignments
+  and final project of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 2e0cd6de-54ee-e9b5-a9ad-76d16ca94cef
 ---
@@ -32,7 +37,7 @@ DESCRIPTIONS
 Future scenarios assignment
 {{< tdclose >}}
 {{< tdopen >}}
-Future scenarios ([PDF]({{< baseurl >}}/resources/mit11_304js09_assn01))
+Future scenarios ({{% resource_link 0d47f179-484a-f4ac-e6b9-39c02621c19d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,11 +57,11 @@ Alternatives and new approaches to site and infrastructure technologies assignme
 {{< tdopen >}}
 
 
-Inventory ([PDF]({{< baseurl >}}/resources/mit11_304js09_assn02))
+Inventory ({{% resource_link 1b677452-bd05-9970-b91d-38cc9b69e523 "PDF" %}})
 
-Site and infrastructure technologies I ([PDF]({{< baseurl >}}/resources/mit11_304js09_assn03a))
+Site and infrastructure technologies I ({{% resource_link d9e9a93d-5aa0-21d8-ad43-1f92a150d4b6 "PDF" %}})
 
-Site and infrastructure technologies II ([PDF]({{< baseurl >}}/resources/mit11_304js09_assn03b))
+Site and infrastructure technologies II ({{% resource_link efaa22e9-7077-25df-365b-14788b6b960a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -70,7 +75,7 @@ Site and infrastructure technologies II ([PDF]({{< baseurl >}}/resources/mit11_3
 Technology-driven schematic site plan investigation assignment due
 {{< tdclose >}}
 {{< tdopen >}}
-Site plan ([PDF]({{< baseurl >}}/resources/mit11_304js09_assn04))
+Site plan ({{% resource_link 89cc2816-740c-7310-b396-389973feb654 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Each team will give a PowerPoint presentation summarizing the goals of their pro
 Preparation of final project
 {{< tdclose >}}
 {{< tdopen >}}
-Final project tasks ([PDF]({{< baseurl >}}/resources/mit11_304js09_assn05))
+Final project tasks ({{% resource_link 1dd38dbe-0509-4528-2583-f856ef465b2c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

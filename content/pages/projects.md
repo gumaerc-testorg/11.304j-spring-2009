@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of final project topics and information
+  on neighborhood site plan assemblies.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: c6bfd663-7a65-d130-5038-4b8f051b3248
 ---

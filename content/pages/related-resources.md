@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides useful links related to site infrastructure and
+  infrastructure system planning.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: f89a0778-10b8-8f8a-48ef-4af00b4fb48f
 ---
