@@ -2,70 +2,48 @@
 content_type: page
 description: This section provides the schedule of assigned readings for the course
   and information on required textbooks.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 149bfda0-2388-54fc-abcc-b3bcf3959be8
 ---
-
 Assigned readings are listed below. Readings from the required textbooks are listed according to the following key:
 
-\[France\] = France, Robert L. _Wetland Design: Principles and Practices for Landscape Architects and Land Use Planners_. New York, NY: W.W. Norton & Company, 2002. ISBN: 9780393730739.
+\[France\] = France, Robert L. *Wetland Design: Principles and Practices for Landscape Architects and Land Use Planners*. New York, NY: W.W. Norton & Company, 2002. ISBN: 9780393730739.
 
-\[Lyle\] = Lyle, John T. _Regenerative Design for Sustainable Development_. New York City, NY: John Wiley & Sons, 2008. ISBN: 9780471178439.
+\[Lyle\] = Lyle, John T. *Regenerative Design for Sustainable Development*. New York City, NY: John Wiley & Sons, 2008. ISBN: 9780471178439.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262121064) \[Lynch and Hack\] = Lynch, Kevin and Gary Hack. [_Site Planning_](https://mitpress.mit.edu/9780262121064). 3rd ed. Cambridge, MA: MIT Press, 1984. ISBN: 9780262121064.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262121064) \[Lynch and Hack\] = Lynch, Kevin and Gary Hack. [*Site Planning*](https://mitpress.mit.edu/9780262121064). 3rd ed. Cambridge, MA: MIT Press, 1984. ISBN: 9780262121064.
 
-\[Marsh\] = Marsh, William M. _Landscape Planning: Environmental Applications_. New York, NY: John Wiley & Sons, 2005. ISBN: 9780471485834.
+\[Marsh\] = Marsh, William M. *Landscape Planning: Environmental Applications*. New York, NY: John Wiley & Sons, 2005. ISBN: 9780471485834.
 
-\[Randolph\] = Randolph, John. _Environmental Land Use Planning Management_. Washington, DC: Island Press, 2004. ISBN: 9781559639484.
+\[Randolph\] = Randolph, John. *Environmental Land Use Planning Management*. Washington, DC: Island Press, 2004. ISBN: 9781559639484.
 
-\[Steiner\] = Steiner, Frederick R. _The Living Landscape: an Ecological Approach to Landscape Planning_. New York, NY: McGraw-Hill, 2000. ISBN: 9780070793989.
+\[Steiner\] = Steiner, Frederick R. *The Living Landscape: an Ecological Approach to Landscape Planning*. New York, NY: McGraw-Hill, 2000. ISBN: 9780070793989.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Site planning: introduction
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Lynch and Hack\] Chapters 1, 2
 
 \[Randolph\] Chapters 1-3
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Site and landscape planning processes
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Steiner\] pp. 9-20
 
@@ -75,73 +53,41 @@ Site and landscape planning processes
 
 \[Lyle\] Chapter 2
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Site inventory and evaluation
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Lynch and Hack\] pp. 19-35
 
 \[Marsh\] Chapter 4
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Earthwork, soils
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Randolph\] Chapter 12
 
-Landphair, Harlow C., and Fred Klatt. _Landscape Architecture Construction_. Upper Saddle River, NJ: Prentice Hall, 1998, chapters 1 and 2. ISBN: 9780132549479.
+Landphair, Harlow C., and Fred Klatt. *Landscape Architecture Construction*. Upper Saddle River, NJ: Prentice Hall, 1998, chapters 1 and 2. ISBN: 9780132549479.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Earthwork and utilities
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Campbell, Craig S., and Michael H. Ogden. _Constructed Wetlands in the Sustainable Landscape_. New York City, NY: Wiley, 1999, chapter 5. ISBN: 9780471107200.
+Campbell, Craig S., and Michael H. Ogden. *Constructed Wetlands in the Sustainable Landscape*. New York City, NY: Wiley, 1999, chapter 5. ISBN: 9780471107200.
 
 Hydrology Handbook for Conservation Commissioners ([PDF - 2.7MB](https://www.mass.gov/files/documents/2016/08/wa/hydrol.pdf))
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Storm water: best management practices
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Low Impact Development ([PDF - 3.3MB](http://www.huduser.org/publications/pdf/practLowImpctDevel.pdf))
 
@@ -154,84 +100,47 @@ Stormwater Management - Volume One ([PDF](https://nepis.epa.gov/Exe/ZyNET.exe/91
 \[Lyle\] Chapter 6
 
 [Massachusetts Department of Environmental Protection Stormwater Policies & Guidelines](https://www.mass.gov/info-details/stormwater#stormwater-policies-&-guidance-)
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Sites around wetlands and water features
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+
 \[Marsh\] pp. 289-99 and 340-51, chapter 9
 
-Stormwater Best Management Practices ([PDF - 9.8MB](http://www.elibrary.dep.state.pa.us/dsweb/Get/Document-48477/07_Chapter_6.pdf))
+[Stormwater Best Management Practices](https://spcwater.org/topics/stormwater-management/stormwater-best-management-practices-2/)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Traffic and Circulation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Gallion, Arthur B. _The Urban Pattern: City Planning and Design_. New York City, NY: Van Nostrand, 1980. ISBN: 9780442227319.
+Gallion, Arthur B. *The Urban Pattern: City Planning and Design*. New York City, NY: Van Nostrand, 1980. ISBN: 9780442227319.
 
 \[Lynch and Hack\] Chapter 7
 
 Wolf, Kathleen L. "Trees, Parking and Green Law: Strategies for Sustainability." USDA Forest Service & Georgia Forestry Commission, February 2004. ([PDF - 2.7MB](http://www.naturewithin.info/Roadside/Trees_Parking_Green%20Law.pdf))
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Subdivisions, neighborhood design and sustainability
+{{< tdclose >}}{{< tdopen >}}
 
+ Schwanke, D. et al. *Mixed Use Development Handbook*. 2{{< sup "nd" >}} ed. Washington, DC: Urban Land Institute, 2004. ISBN: 9780874206654.
 
-{{< tdclose >}}
-{{< tdopen >}}
-
-
- Schwanke, D. et al. _Mixed Use Development Handbook_. 2{{< sup "nd" >}} ed. Washington, DC: Urban Land Institute, 2004. ISBN: 9780874206654.
-
- Southworth, Michael and Eran Ben-Joseph. _Streets and the Shaping of Towns and Cities_. Washington, DC: Island Press, 2003. ISBN: 9781559639163.
+ Southworth, Michael and Eran Ben-Joseph. *Streets and the Shaping of Towns and Cities*. Washington, DC: Island Press, 2003. ISBN: 9781559639163.
 
 [United States Green Building Council](http://www.usgbc.org/)
 
 LEED for Neighborhood Developments Rating System ([PDF - 2.4MB](https://www.usgbc.org/ShowFile.aspx?DocumentID=959))
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Graphic Communications
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
