@@ -4,7 +4,7 @@ description: This overview of the course provides information on the goals and o
   of the Site Planning Studio, the study area, intentions, studio process, the 10
   Guiding Principles For Ecologic Oriented Development (EOD), and typologies of alternatives
   approaches to site and infrastructure planning.
-file: /ol-ocw-studio-app/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/1fc5a91ccfcb1f6d65a906513ec85fd0_MIT11_304js09_handout.pdf
+file: /courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/1fc5a91ccfcb1f6d65a906513ec85fd0_MIT11_304js09_handout.pdf
 file_size: 100638
 file_type: application/pdf
 learning_resource_types: []
