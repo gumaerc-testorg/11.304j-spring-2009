@@ -17,7 +17,7 @@ The studio developed three permutations of how the various typological approache
 Projects
 --------
 
-Descriptions of the final project topics can be found in the table below. The final projects and reports can be seen on the {{% resource_link "dd058242-ff4e-4e34-a275-895c99c643b7" "class web site" %}}.
+Descriptions of the final project topics can be found in the table below. The final projects and reports can be seen on the [class web site](http://web.mit.edu/11.304j/www/japan/).
 
 {{< tableopen >}}
 {{< theadopen >}}
